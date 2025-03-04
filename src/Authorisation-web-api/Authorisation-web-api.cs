@@ -1,6 +1,6 @@
 namespace Authorisation_web_api;
 
-public class WeatherForecast
+public class Authorisation_web_api
 {
     public DateOnly Date { get; set; }
 
